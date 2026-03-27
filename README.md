@@ -121,13 +121,7 @@ http://localhost:5173
 
 ---
 
-## ☁️ Deployment
 
-- 🚀 Deployed using AWS EC2  
-- 🔄 CI/CD implemented with Jenkins  
-- 📦 Containerized using Docker  
-
----
 
 ## 🌱 Future Improvements
 
