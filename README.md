@@ -114,10 +114,10 @@ http://localhost:5173
 ### Order-Confirmation Page
 ![Order-Confirmation](screenshots/order-confirmation.png)
 ### Cancel order
-![Cancel-Order](screenshots/cancel order.png)
+![Cancel-Order](screenshots/cancel-order.png)
 ### Order again Page
 ![Order_Again](screenshots/reorder.png)
-```
+
 
 ---
 
