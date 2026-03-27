@@ -105,12 +105,18 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-/screenshots/Table.png
-/screenshots/menu.png
-/screenshots/cart.png
-/screenshots/order-confirmation.png
-/screenshots/cancel-order.png
-/screenshots/reorder.png
+### Home Page
+![Home](screenshots/Table.png)
+### Menu Page
+![Menu](screenshots/menu.png)
+### Cart Page
+![Cart](screenshots/cart.png)
+### Order-Confirmation Page
+![Order-Confirmation](screenshots/order-confirmation.png)
+### Cancel order
+![Cancel-Order](screenshots/cancel order.png)
+### Order again Page
+![Order_Again](screenshots/reorder.png)
 ```
 
 ---
